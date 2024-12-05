@@ -1,6 +1,6 @@
 # CO2-s-Effect-on-Bird-Population-in-Denmark
 
-This project seeks to explore and predict the effect of carbon dioxide on the population of the top 20 birds in Denmark from 2008-2020. 
+This project seeks to explore and predict the effect of carbon dioxide emissions on the population of the top 20 bird species in Denmark from 2008-2020. 
 
 CO2 Data: Taken from Our World in Data (https://github.com/owid/co2-data). Data is separated by country, then by years (1840s-2020s) for rows, and columns by different GHG categories. CSV File: owid-co2-data.csv
 
